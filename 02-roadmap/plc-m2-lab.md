@@ -25,4 +25,4 @@ The UI refresh could be a Rock if research shows that the outdated interface is 
 - **If someone who had never seen your strategy read the Now column, would they know what problem you are solving this quarter?:** Yes. The goal is to prove that Saudi wholesale customers will buy the product at a competitive price while maintaining sustainable profitability.
 
 ## Save your roadmap
-- **Where did you save your roadmap? (link or file):** _(not filled in)_
+- **Where did you save your roadmap? (link or file):** _(https://chatgpt.com/s/t_6ad087e67f74819193a46d5526539f57)_
